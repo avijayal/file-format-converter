@@ -2,3 +2,6 @@ ffc-venv
 _pychache_
 data
 logs
+dist
+build
+ffconverter.egg-info
